@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=zXqs6X0lzKI
 
 >Tools
 
-- Git -> Github 
+- [Git](https://try.github.io/levels/1/challenges/1) -> Github 
 - Linux (terminal, SSH, FTP)
 - package manager (npm, Bower, Composer)
 - Gulp and or Grunt
