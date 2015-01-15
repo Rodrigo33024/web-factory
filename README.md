@@ -37,8 +37,9 @@
 
 - [PHP](http://www.codecademy.com/tracks/php)
 	- MVC frameworks
-		- Laravel
-		- Symfony
+		- [Laravel](http://laravel.com/)
+		- [Laracast Laravel 5 From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
+		- [Symfony](http://symfony.com/)
 - MySQL
 - Rest API
 - Other options
@@ -78,7 +79,7 @@
 - [Yeoman](http://yeoman.io/codelab.html)
 - ORM
 - Template
-	- Blade
+	- [Blade](http://laravel.com/docs/4.2/templates)
 	- twig
 	- Swig
 	- Liquid
