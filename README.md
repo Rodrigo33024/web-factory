@@ -30,8 +30,14 @@
  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [Jquery](http://www.codecademy.com/tracks/jquery)
  - Ajax
+ 	- [MDN Ajax](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+ 	- [jQuery Ajax](http://learn.jquery.com/ajax/)
  - Json
- - Angular.js and other MV* framework
+ 	- [Getting started with JSON](http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/)
+ - Angular.js
+	- [AngularJS in one day ](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+	- [AngularJS In 60-ish Minutes ](https://www.youtube.com/watch?v=i9MHigUZKEM)
+ - other MV* framework
 
 ##Server
 
@@ -44,7 +50,10 @@
 - Rest API
 - Other options
 	- Node.js
+		- [Node School](http://nodeschool.io/)
 	- .NET
+		- [asp.net](http://www.asp.net/get-started)
+		- [MS Virtual Academy](http://www.microsoftvirtualacademy.com/)
 	- Ruby
 		- [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 		- [Codecademy](http://www.codecademy.com/tracks/ruby)
@@ -65,8 +74,9 @@
 	- FTP
 - Package Manager
 	- npm
-	- Bower
-	- Composer
+	- [Bower](http://bower.io/)
+		- [egghead bower](https://egghead.io/lessons/bower-introduction-and-setup)
+	- [Composer](https://getcomposer.org/doc/00-intro.md)
 - Task Runners
 	- [Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 	- Grunt
@@ -82,7 +92,7 @@
 	- [Blade](http://laravel.com/docs/4.2/templates)
 	- twig
 	- Swig
-	- Liquid
+	- [Liquid](http://jekyllrb.com/docs/templates/)
 	- etc
 - CMS
 	- Wordpress
