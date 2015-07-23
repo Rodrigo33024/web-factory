@@ -28,6 +28,7 @@
  #####JavaScript
  - [Eloquent Javascript](http://eloquentjavascript.net/)
  - [Codecademy JavaScript](http://www.codecademy.com/tracks/javascript)
+ - [Codewars](http://www.codewars.com/)
  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [Jquery](http://www.codecademy.com/tracks/jquery)
  - Ajax
@@ -104,3 +105,6 @@
 	- OpenCart
 	- etc
 - Unit testing
+
+##Code Camps
+- [Free Code Camp (Node Back End)](http://www.freecodecamp.com/)
