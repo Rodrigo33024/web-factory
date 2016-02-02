@@ -62,7 +62,7 @@
 		- [The Hard Way](http://learnrubythehardway.org/)
 	- Python
 		- [The Hard Way](http://learnpythonthehardway.org/book/)
-		- [Codecademy](http://www.codecademy.com/tracks/python))
+		- [Codecademy](http://www.codecademy.com/tracks/python)
 
 ##Tools
 
@@ -75,7 +75,7 @@
 	- SSH
 	- FTP
 - Package Manager
-	- npm
+	- [npm] (https://github.com/npm/how-to-npm)
 	- [Bower](http://bower.io/)
 		- [egghead bower](https://egghead.io/lessons/bower-introduction-and-setup)
 	- [Composer](https://getcomposer.org/doc/00-intro.md)
@@ -95,9 +95,8 @@
 	- twig
 	- Swig
 	- [Liquid](http://jekyllrb.com/docs/templates/)
-	- etc
 - CMS
-	- Wordpress
+	- [Wordpress](https://codex.wordpress.org/WordPress_Lessons)
 	- Drupal
 	- Joomla
 - Ecommerce
