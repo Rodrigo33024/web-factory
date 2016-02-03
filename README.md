@@ -49,6 +49,7 @@
 		- [Laracast Laravel 5 From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 		- [Symfony](http://symfony.com/)
 - MySQL
+  - [SQL](http://sqlbolt.com/lesson/introduction)
 - Rest API
 - Other options
 	- Node.js
