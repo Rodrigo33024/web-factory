@@ -36,6 +36,7 @@
  	- [jQuery Ajax](http://learn.jquery.com/ajax/)
  - Json
  	- [Getting started with JSON](http://iviewsource.com/codingtutorials/getting-started-with-javascript-object-notation-json-for-absolute-beginners/)
+ - [React.js](https://facebook.github.io/react/)
  - Angular.js
 	- [AngularJS in one day ](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 	- [AngularJS In 60-ish Minutes ](https://www.youtube.com/watch?v=i9MHigUZKEM)
