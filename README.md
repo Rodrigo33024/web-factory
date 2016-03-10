@@ -4,6 +4,7 @@
 - [Overview of Web Development](https://www.youtube.com/watch?v=zXqs6X0lzKI)
 - [Overview of Web Development (2015 version)](https://www.youtube.com/watch?v=pB0WvcxTbCA)
 - [How the Internet Works in 5 Minutes](http://youtu.be/7_LPdttKXPc)
+- [Chrome Devtools](http://discover-devtools.codeschool.com/)
 
 ##Frontend
 
