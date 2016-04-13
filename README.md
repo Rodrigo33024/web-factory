@@ -75,7 +75,7 @@
 	- [Github](https://help.github.com/)
 - Linux
 	- [terminal](http://cli.learncodethehardway.org/book/)
-	- SSH
+	- [SSH](http://www.alexonlinux.com/ssh-crash-course)
 	- FTP
 - Package Manager
 	- [npm] (https://github.com/npm/how-to-npm)
