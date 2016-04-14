@@ -76,7 +76,7 @@
 - Linux
 	- [terminal](http://cli.learncodethehardway.org/book/)
 	- [SSH](http://www.alexonlinux.com/ssh-crash-course)
-	- FTP
+	- [FTP](http://www.webmonkey.com/2010/02/ftp_for_beginners/)
 - Package Manager
 	- [npm] (https://github.com/npm/how-to-npm)
 	- [Bower](http://bower.io/)
