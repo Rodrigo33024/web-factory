@@ -107,6 +107,7 @@
 	- OpenCart
 	- etc
 - Unit testing
+  - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 
 ##Code Camps
 - [Free Code Camp (Node Back End)](http://www.freecodecamp.com/)
