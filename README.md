@@ -41,7 +41,7 @@
  - Angular.js
 	- [AngularJS in one day ](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 	- [AngularJS In 60-ish Minutes ](https://www.youtube.com/watch?v=i9MHigUZKEM)
- - other MV* framework
+ - [Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 
 ##Server
 
