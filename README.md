@@ -93,6 +93,8 @@
 - Sublime text
 - [Yeoman](http://yeoman.io/codelab.html)
 - ORM
+  - [Rails Active Record](http://guides.rubyonrails.org/active_record_basics.html)
+  - [Eloquent](https://scotch.io/tutorials/a-guide-to-using-eloquent-orm-in-laravel)
 - Template
 	- [Blade](http://laravel.com/docs/4.2/templates)
 	- twig
