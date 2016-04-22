@@ -32,6 +32,7 @@
  - [Codewars](http://www.codewars.com/)
  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [Jquery](http://www.codecademy.com/tracks/jquery)
+ - [30 Days to Learn jQuery](http://code.tutsplus.com/courses/30-days-to-learn-jquery)
  - Ajax
  	- [MDN Ajax](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
  	- [jQuery Ajax](http://learn.jquery.com/ajax/)
