@@ -91,7 +91,7 @@
 	- nginx
 	- IIS
 - [Jekyll](http://jekyllrb.com/docs/home/)
-- Sublime text
+- [Sublime text](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
 - [Yeoman](http://yeoman.io/codelab.html)
 - ORM
   - [Rails Active Record](http://guides.rubyonrails.org/active_record_basics.html)
