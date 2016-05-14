@@ -117,3 +117,7 @@
 ##Code Camps
 - [Free Code Camp (Node Back End)](http://www.freecodecamp.com/)
 - [The Odin Project (Ruby on Rails and general web development)](http://www.theodinproject.com/)
+
+##Programming Challenges
+- [Exercism](http://exercism.io/)
+- [Codewars](http://www.codewars.com/)
