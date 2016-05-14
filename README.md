@@ -48,6 +48,7 @@
 ##Server
 
 - [PHP](http://www.codecademy.com/tracks/php)
+- [PHP School](https://www.phpschool.io/)
 	- MVC frameworks
 		- [Laravel](http://laravel.com/)
 		- [Laracast Laravel 5 From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
