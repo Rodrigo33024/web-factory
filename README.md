@@ -51,6 +51,7 @@
 
 - [PHP](http://www.codecademy.com/tracks/php)
 - [PHP School](https://www.phpschool.io/)
+- [PHP The Right Way](http://www.phptherightway.com/)
 	- MVC frameworks
 		- [Laravel](http://laravel.com/)
 		- [Laracast Laravel 5 From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
