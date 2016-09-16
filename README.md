@@ -14,10 +14,11 @@
  - [Dash general assembly](https://dash.generalassemb.ly/)
 
  #####CSS
-
  - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
  - [Positioning in 10 Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
  - [Flexbox](http://flexboxfroggy.com/)
+ - [CSS Diner](http://flukeout.github.io/)
+ - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
  - Responsive design
  - [SASS](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
  - Frameworks
