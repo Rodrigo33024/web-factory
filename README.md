@@ -13,7 +13,7 @@
  - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
  - [Dash general assembly](https://dash.generalassemb.ly/)
 
- #####CSS
+#####CSS
  - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
  - [Positioning in 10 Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
  - [Flexbox](http://flexboxfroggy.com/)
@@ -28,11 +28,12 @@
  	- [Jeet](http://jeet.gs/)
  	- [Susy](http://susy.oddbird.net/demos/)
 
- #####JavaScript
+#####JavaScript
  - [Eloquent Javascript](http://eloquentjavascript.net/)
  - [Codecademy JavaScript](http://www.codecademy.com/tracks/javascript)
  - [Codewars](http://www.codewars.com/)
  - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  - [Jquery](http://www.codecademy.com/tracks/jquery)
  - [30 Days to Learn jQuery](http://code.tutsplus.com/courses/30-days-to-learn-jquery)
  - Ajax
@@ -49,7 +50,6 @@
  - [Vue.js](https://laracasts.com/series/learning-vue-step-by-step)
 
 ##Server
-
 - [PHP](http://www.codecademy.com/tracks/php)
 - [PHP School](https://www.phpschool.io/)
 - [PHP The Right Way](http://www.phptherightway.com/)
@@ -75,7 +75,6 @@
 		- [Codecademy](http://www.codecademy.com/tracks/python)
 
 ##Tools
-
 - Git
 	- [Try Git](https://try.github.io/levels/1/challenges/1)
 	- [Codeschool Gitreal](http://gitreal.codeschool.com/levels/1)
